@@ -1,0 +1,12 @@
+insert into user_balance (user_id, balance) values (1, 500);
+insert into user_balance (user_id, balance) values (2, 2500);
+insert into user_balance (user_id, balance) values (3, 7030);
+insert into user_balance (user_id, balance) values (4, 5300);
+insert into user_balance (user_id, balance) values (5, 3500);
+insert into user_balance (user_id, balance) values (6, 6700);
+insert into user_balance (user_id, balance) values (7, 50000);
+insert into user_balance (user_id, balance) values (8, 250000);
+insert into user_balance (user_id, balance) values (9, 40);
+insert into user_balance (user_id, balance) values (10, 500496);
+insert into user_balance (user_id, balance) values (11, 2557);
+insert into user_balance (user_id, balance) values (12, 6300);
